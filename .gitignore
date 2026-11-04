@@ -1,0 +1,19 @@
+# Build do Maven
+target/
+
+# Configurações pessoais do NetBeans
+nbproject/private/
+
+# Arquivos do macOS
+.DS_Store
+
+# Outras IDEs (caso algum colega use)
+.idea/
+.vscode/
+*.iml
+
+# Credenciais do banco (cada um tem a sua)
+src/main/resources/db.properties
+
+# Compilados avulsos
+*.class
