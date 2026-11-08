@@ -10,7 +10,7 @@ package br.ucb.barbearia;
  */
 public class Barbearia {
 
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
+        public static void main(String[] args) {
+        java.awt.EventQueue.invokeLater(() -> new br.ucb.barbearia.view.TelaPrincipal().setVisible(true));
     }
 }
