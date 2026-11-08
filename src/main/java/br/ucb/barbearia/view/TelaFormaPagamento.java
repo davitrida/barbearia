@@ -89,6 +89,7 @@ public class TelaFormaPagamento extends javax.swing.JFrame {
 
         jLabel1.setText("ID:");
 
+        txtId.setEditable(false);
         txtId.setColumns(5);
 
         txtDescricao.setColumns(30);
