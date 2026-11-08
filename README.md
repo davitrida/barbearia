@@ -90,3 +90,7 @@ A forma de pagamento é opcional até o atendimento ser concluído.
 ## Autores
 
 - Davi Trida
+- Fernando Cunha
+- Guilherme Comaccio
+- Felipe Ricardo Silva
+- Gabriel Wolney Drumond
