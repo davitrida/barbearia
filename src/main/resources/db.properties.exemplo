@@ -1,0 +1,14 @@
+# =====================================================================
+#  Configuração de acesso ao banco de dados
+#
+#  COMO USAR:
+#  1. Copie este arquivo e renomeie a cópia para: db.properties
+#  2. No db.properties, preencha db.senha com a SUA senha do MySQL
+#
+#  O db.properties NÃO vai para o GitHub (está no .gitignore),
+#  porque cada integrante do grupo tem a própria senha.
+# =====================================================================
+
+db.url=jdbc:mysql://localhost:3306/barbearia?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=America/Sao_Paulo
+db.usuario=root
+db.senha=
